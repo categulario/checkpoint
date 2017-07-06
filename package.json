@@ -19,7 +19,6 @@
     "webpack-dev-server": "^2.5.0"
   },
   "dependencies": {
-    "bootstrap-sass": "^3.3.7",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   }
