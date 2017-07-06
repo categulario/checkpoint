@@ -29,7 +29,7 @@ class HelloWorld extends Component {
     this.setState({
       runner: '',
       records: JSON.parse(event.target.responseText).map((r) => ({
-        key: r.key,
+        number: r.number,
         name: r.name.toLowerCase(),
         last_name: r.last_name.toLowerCase(),
         time: null,
@@ -37,10 +37,26 @@ class HelloWorld extends Component {
     });
   }
 
+  currentTime() {
+    let curdate = new Date();
+    let hours = curdate.getHours();
+    let minutes = curdate.getMinutes();
+    let seconds = curdate.getSeconds();
+
+    return `${hours}:${minutes}:${seconds}`;
+  }
+
   handleSubmit(event) {
     this.setState({
       runner: '',
+      records: this.state.records.map((r) => ({
+        number: r.number,
+        name: r.name,
+        last_name: r.last_name,
+        time: r.number == this.state.runner ? this.currentTime() : r.time,
+      })),
     });
+
     event.preventDefault();
   }
 
@@ -63,7 +79,7 @@ class HelloWorld extends Component {
           <div id="recorded-times">
             { this.state.records.map((r) => (
               <div className="record">
-                <div className="runner">{ r.key }</div>
+                <div className="runner">{ r.number }</div>
                 <div className="name"> { r.name } {r.last_name }</div>
                 <div className="time"> { r.time }</div>
               </div>
