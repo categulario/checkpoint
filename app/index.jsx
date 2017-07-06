@@ -10,44 +10,20 @@ class HelloWorld extends Component {
     this.state = {
       records: [],
     };
-
-    setTimeout(this.onLoad.bind(this), 1000);
   }
 
-  onLoad() {
+  componentDidMount() {
+    var req = new XMLHttpRequest;  
+
+    req.open('GET', '/21k.json');
+
+    req.onload  = this.onLoad.bind(this);
+    req.send(null);
+  }
+
+  onLoad(event) {
     this.setState({
-      records: [
-        {
-          number: 100,
-          time: null,
-          name: 'John Doe',
-        },
-        {
-          number: 13,
-          time: null,
-          name: 'John Doe',
-        },
-        {
-          number: 13,
-          time: null,
-          name: 'John Doe',
-        },
-        {
-          number: 13,
-          time: null,
-          name: 'John Doe',
-        },
-        {
-          number: 13,
-          time: null,
-          name: 'John Doe',
-        },
-        {
-          number: 412,
-          time: null,
-          name: 'John Doe',
-        },
-      ],
+      records: JSON.parse(event.target.responseText),
     });
   }
 
@@ -58,8 +34,6 @@ class HelloWorld extends Component {
           <div id="entry">
             <input type="text" autofocus name="runner" placeholder="Número del corredor"/>
           </div>
-
-        <p>{ this.state.records.length }</p>
 
           <div id="recorded-times">
             { this.state.records.map((r) => (

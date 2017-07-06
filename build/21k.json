@@ -1,1152 +1,1152 @@
 [
  {
-   "DORSAL": 1,
-   "NOMBRE": "GERARDO",
-   "APELLIDOS": "GUZMAN CERVANTES"
+   "number": 1,
+   "name": "GERARDO",
+   "last_name": "GUZMAN CERVANTES"
  },
  {
-   "DORSAL": 3,
-   "NOMBRE": "BLANCA",
-   "APELLIDOS": "BANDALA CRUZADO"
+   "number": 3,
+   "name": "BLANCA",
+   "last_name": "BANDALA CRUZADO"
  },
  {
-   "DORSAL": 5,
-   "NOMBRE": "JOSE PABLO",
-   "APELLIDOS": "DEL MORAL MEZA"
+   "number": 5,
+   "name": "JOSE PABLO",
+   "last_name": "DEL MORAL MEZA"
  },
  {
-   "DORSAL": 7,
-   "NOMBRE": "ANA PATRICIA",
-   "APELLIDOS": "SILVA GRAJALES"
+   "number": 7,
+   "name": "ANA PATRICIA",
+   "last_name": "SILVA GRAJALES"
  },
  {
-   "DORSAL": 8,
-   "NOMBRE": "RODOLFO",
-   "APELLIDOS": "SANCHEZ CAMACHO"
+   "number": 8,
+   "name": "RODOLFO",
+   "last_name": "SANCHEZ CAMACHO"
  },
  {
-   "DORSAL": 11,
-   "NOMBRE": "ALFONSO CARLOS",
-   "APELLIDOS": "LEAL ALEXANDER"
+   "number": 11,
+   "name": "ALFONSO CARLOS",
+   "last_name": "LEAL ALEXANDER"
  },
  {
-   "DORSAL": 13,
-   "NOMBRE": "DANIEL",
-   "APELLIDOS": "ALVAREZ MATA"
+   "number": 13,
+   "name": "DANIEL",
+   "last_name": "ALVAREZ MATA"
  },
  {
-   "DORSAL": 14,
-   "NOMBRE": "DAVID ABISAI",
-   "APELLIDOS": "MURILLO MEJIA"
+   "number": 14,
+   "name": "DAVID ABISAI",
+   "last_name": "MURILLO MEJIA"
  },
  {
-   "DORSAL": 16,
-   "NOMBRE": "JULIAN ANDRES",
-   "APELLIDOS": "LOPEZ ANDRADE"
+   "number": 16,
+   "name": "JULIAN ANDRES",
+   "last_name": "LOPEZ ANDRADE"
  },
  {
-   "DORSAL": 19,
-   "NOMBRE": "RODOLFO SAMUEL",
-   "APELLIDOS": "MARTINEZ CERVANTES"
+   "number": 19,
+   "name": "RODOLFO SAMUEL",
+   "last_name": "MARTINEZ CERVANTES"
  },
  {
-   "DORSAL": 24,
-   "NOMBRE": "LUISA PAULINA",
-   "APELLIDOS": "TIRADO ISLAS"
+   "number": 24,
+   "name": "LUISA PAULINA",
+   "last_name": "TIRADO ISLAS"
  },
  {
-   "DORSAL": 25,
-   "NOMBRE": "SERGIO",
-   "APELLIDOS": "FLORES ROSALES"
+   "number": 25,
+   "name": "SERGIO",
+   "last_name": "FLORES ROSALES"
  },
  {
-   "DORSAL": 30,
-   "NOMBRE": "LAURA GUADALUPE",
-   "APELLIDOS": "MARTINEZ ALARCON"
+   "number": 30,
+   "name": "LAURA GUADALUPE",
+   "last_name": "MARTINEZ ALARCON"
  },
  {
-   "DORSAL": 32,
-   "NOMBRE": "GONZALO",
-   "APELLIDOS": "GARCIA PEREZ"
+   "number": 32,
+   "name": "GONZALO",
+   "last_name": "GARCIA PEREZ"
  },
  {
-   "DORSAL": 33,
-   "NOMBRE": "ALLAN",
-   "APELLIDOS": "OBREGON CASTILLO"
+   "number": 33,
+   "name": "ALLAN",
+   "last_name": "OBREGON CASTILLO"
  },
  {
-   "DORSAL": 36,
-   "NOMBRE": "GEOVANNI",
-   "APELLIDOS": "CASTILLO VICCON"
+   "number": 36,
+   "name": "GEOVANNI",
+   "last_name": "CASTILLO VICCON"
  },
  {
-   "DORSAL": 37,
-   "NOMBRE": "ESTEBAN DE JESUS",
-   "APELLIDOS": "SILICEO GUTIERREZ"
+   "number": 37,
+   "name": "ESTEBAN DE JESUS",
+   "last_name": "SILICEO GUTIERREZ"
  },
  {
-   "DORSAL": 38,
-   "NOMBRE": "VANIA GABRIELA",
-   "APELLIDOS": "VASQUEZ GARCIA"
+   "number": 38,
+   "name": "VANIA GABRIELA",
+   "last_name": "VASQUEZ GARCIA"
  },
  {
-   "DORSAL": 42,
-   "NOMBRE": "KARINA",
-   "APELLIDOS": "PAXTIAN CARCAMO"
+   "number": 42,
+   "name": "KARINA",
+   "last_name": "PAXTIAN CARCAMO"
  },
  {
-   "DORSAL": 44,
-   "NOMBRE": "MAGDA ARLETH",
-   "APELLIDOS": "LOPEZ TINOCO"
+   "number": 44,
+   "name": "MAGDA ARLETH",
+   "last_name": "LOPEZ TINOCO"
  },
  {
-   "DORSAL": 45,
-   "NOMBRE": "HIRAM",
-   "APELLIDOS": "TORRES PINEDA"
+   "number": 45,
+   "name": "HIRAM",
+   "last_name": "TORRES PINEDA"
  },
  {
-   "DORSAL": 46,
-   "NOMBRE": "MARA",
-   "APELLIDOS": "RUIZ ARMENTA"
+   "number": 46,
+   "name": "MARA",
+   "last_name": "RUIZ ARMENTA"
  },
  {
-   "DORSAL": 47,
-   "NOMBRE": "GABRIEL",
-   "APELLIDOS": "LARTIGUE SANTOYO"
+   "number": 47,
+   "name": "GABRIEL",
+   "last_name": "LARTIGUE SANTOYO"
  },
  {
-   "DORSAL": 48,
-   "NOMBRE": "GLORIA ESTER",
-   "APELLIDOS": "SOLIS MATA"
+   "number": 48,
+   "name": "GLORIA ESTER",
+   "last_name": "SOLIS MATA"
  },
  {
-   "DORSAL": 49,
-   "NOMBRE": "ISAIAS",
-   "APELLIDOS": "LEON CASTILLO"
+   "number": 49,
+   "name": "ISAIAS",
+   "last_name": "LEON CASTILLO"
  },
  {
-   "DORSAL": 51,
-   "NOMBRE": "MARCO VINICIO",
-   "APELLIDOS": "LEZAMA GARCIA"
+   "number": 51,
+   "name": "MARCO VINICIO",
+   "last_name": "LEZAMA GARCIA"
  },
  {
-   "DORSAL": 52,
-   "NOMBRE": "JOSE LUIS",
-   "APELLIDOS": "PALACIAS MIRELES"
+   "number": 52,
+   "name": "JOSE LUIS",
+   "last_name": "PALACIAS MIRELES"
  },
  {
-   "DORSAL": 54,
-   "NOMBRE": "KEVIN",
-   "APELLIDOS": "MONLUI ARRIETA"
+   "number": 54,
+   "name": "KEVIN",
+   "last_name": "MONLUI ARRIETA"
  },
  {
-   "DORSAL": 55,
-   "NOMBRE": "ZAYENELLI",
-   "APELLIDOS": "VANOYE TLAPA"
+   "number": 55,
+   "name": "ZAYENELLI",
+   "last_name": "VANOYE TLAPA"
  },
  {
-   "DORSAL": 56,
-   "NOMBRE": "DONATZIN",
-   "APELLIDOS": "VANOYE TLAPA"
+   "number": 56,
+   "name": "DONATZIN",
+   "last_name": "VANOYE TLAPA"
  },
  {
-   "DORSAL": 57,
-   "NOMBRE": "OMAR",
-   "APELLIDOS": "LIMA ORTEGA"
+   "number": 57,
+   "name": "OMAR",
+   "last_name": "LIMA ORTEGA"
  },
  {
-   "DORSAL": 58,
-   "NOMBRE": "GUADALUPE",
-   "APELLIDOS": "ORTIZ MURRIETA"
+   "number": 58,
+   "name": "GUADALUPE",
+   "last_name": "ORTIZ MURRIETA"
  },
  {
-   "DORSAL": 59,
-   "NOMBRE": "JORGE",
-   "APELLIDOS": "SALDAÑA RODRIGUEZ"
+   "number": 59,
+   "name": "JORGE",
+   "last_name": "SALDAÑA RODRIGUEZ"
  },
  {
-   "DORSAL": 60,
-   "NOMBRE": "MARIA DE JESUS M",
-   "APELLIDOS": "DEHESA MATA"
+   "number": 60,
+   "name": "MARIA DE JESUS M",
+   "last_name": "DEHESA MATA"
  },
  {
-   "DORSAL": 61,
-   "NOMBRE": "BENJAMIN",
-   "APELLIDOS": "SALDAÑA DEHESA"
+   "number": 61,
+   "name": "BENJAMIN",
+   "last_name": "SALDAÑA DEHESA"
  },
  {
-   "DORSAL": 75,
-   "NOMBRE": "FRANCISCO JAVIER",
-   "APELLIDOS": "AGUILAR HERNANDEZ"
+   "number": 75,
+   "name": "FRANCISCO JAVIER",
+   "last_name": "AGUILAR HERNANDEZ"
  },
  {
-   "DORSAL": 79,
-   "NOMBRE": "JOSE JAVIER",
-   "APELLIDOS": "LINARES BARRERA"
+   "number": 79,
+   "name": "JOSE JAVIER",
+   "last_name": "LINARES BARRERA"
  },
  {
-   "DORSAL": 82,
-   "NOMBRE": "CRISTIAN",
-   "APELLIDOS": "LANDA SANCHEZ"
+   "number": 82,
+   "name": "CRISTIAN",
+   "last_name": "LANDA SANCHEZ"
  },
  {
-   "DORSAL": 83,
-   "NOMBRE": "ANGEL",
-   "APELLIDOS": "JUAN DURAN"
+   "number": 83,
+   "name": "ANGEL",
+   "last_name": "JUAN DURAN"
  },
  {
-   "DORSAL": 84,
-   "NOMBRE": "GERARDO",
-   "APELLIDOS": "PULIDO ARCOS"
+   "number": 84,
+   "name": "GERARDO",
+   "last_name": "PULIDO ARCOS"
  },
  {
-   "DORSAL": 85,
-   "NOMBRE": "GERMAN",
-   "APELLIDOS": "PULIDO BARZABAL"
+   "number": 85,
+   "name": "GERMAN",
+   "last_name": "PULIDO BARZABAL"
  },
  {
-   "DORSAL": 87,
-   "NOMBRE": "GABRIEL MEDARDO",
-   "APELLIDOS": "LOPEZ GRACIA"
+   "number": 87,
+   "name": "GABRIEL MEDARDO",
+   "last_name": "LOPEZ GRACIA"
  },
  {
-   "DORSAL": 88,
-   "NOMBRE": "DIEGO",
-   "APELLIDOS": "SANDOVAL RABADAN"
+   "number": 88,
+   "name": "DIEGO",
+   "last_name": "SANDOVAL RABADAN"
  },
  {
-   "DORSAL": 89,
-   "NOMBRE": "ARMANDO",
-   "APELLIDOS": "SANDOVAL SALGADO"
+   "number": 89,
+   "name": "ARMANDO",
+   "last_name": "SANDOVAL SALGADO"
  },
  {
-   "DORSAL": 91,
-   "NOMBRE": "YAZMIN",
-   "APELLIDOS": "MARTINEZ HERNANDEZ"
+   "number": 91,
+   "name": "YAZMIN",
+   "last_name": "MARTINEZ HERNANDEZ"
  },
  {
-   "DORSAL": 92,
-   "NOMBRE": "SIXTO",
-   "APELLIDOS": "CHIVIS SANCHEZ"
+   "number": 92,
+   "name": "SIXTO",
+   "last_name": "CHIVIS SANCHEZ"
  },
  {
-   "DORSAL": 93,
-   "NOMBRE": "ALEJANDRO",
-   "APELLIDOS": "VAZQUEZ SANCHEZ"
+   "number": 93,
+   "name": "ALEJANDRO",
+   "last_name": "VAZQUEZ SANCHEZ"
  },
  {
-   "DORSAL": 94,
-   "NOMBRE": "ERNESTO",
-   "APELLIDOS": "ROMERO ZARATE"
+   "number": 94,
+   "name": "ERNESTO",
+   "last_name": "ROMERO ZARATE"
  },
  {
-   "DORSAL": 96,
-   "NOMBRE": "JUAN ROSENDO",
-   "APELLIDOS": "HERNANDE CID"
+   "number": 96,
+   "name": "JUAN ROSENDO",
+   "last_name": "HERNANDE CID"
  },
  {
-   "DORSAL": 101,
-   "NOMBRE": "ANGELA",
-   "APELLIDOS": "DAMAZO CRUZ"
+   "number": 101,
+   "name": "ANGELA",
+   "last_name": "DAMAZO CRUZ"
  },
  {
-   "DORSAL": 102,
-   "NOMBRE": "ADAN ROQUE",
-   "APELLIDOS": "DOMINGUEZ ELOX"
+   "number": 102,
+   "name": "ADAN ROQUE",
+   "last_name": "DOMINGUEZ ELOX"
  },
  {
-   "DORSAL": 105,
-   "NOMBRE": "MONSERRAT",
-   "APELLIDOS": "CORDERO LOPEZ"
+   "number": 105,
+   "name": "MONSERRAT",
+   "last_name": "CORDERO LOPEZ"
  },
  {
-   "DORSAL": 106,
-   "NOMBRE": "RAUL",
-   "APELLIDOS": "CORDERO PALACIOS"
+   "number": 106,
+   "name": "RAUL",
+   "last_name": "CORDERO PALACIOS"
  },
  {
-   "DORSAL": 109,
-   "NOMBRE": "VERONICA",
-   "APELLIDOS": "DURANTE MARINI"
+   "number": 109,
+   "name": "VERONICA",
+   "last_name": "DURANTE MARINI"
  },
  {
-   "DORSAL": 110,
-   "NOMBRE": "JOSE GERARDO",
-   "APELLIDOS": "PALESTINO MOALES"
+   "number": 110,
+   "name": "JOSE GERARDO",
+   "last_name": "PALESTINO MOALES"
  },
  {
-   "DORSAL": 111,
-   "NOMBRE": "EDGAR ANTONIO",
-   "APELLIDOS": "HERRERA RODRIGUEZ"
+   "number": 111,
+   "name": "EDGAR ANTONIO",
+   "last_name": "HERRERA RODRIGUEZ"
  },
  {
-   "DORSAL": 112,
-   "NOMBRE": "DULCE BELEM",
-   "APELLIDOS": "JIMENEZ PEREZ"
+   "number": 112,
+   "name": "DULCE BELEM",
+   "last_name": "JIMENEZ PEREZ"
  },
  {
-   "DORSAL": 115,
-   "NOMBRE": "EMMANUEL JESUS",
-   "APELLIDOS": "SANGABRIEL ZAYAS"
+   "number": 115,
+   "name": "EMMANUEL JESUS",
+   "last_name": "SANGABRIEL ZAYAS"
  },
  {
-   "DORSAL": 121,
-   "NOMBRE": "MONICA",
-   "APELLIDOS": "CABELLERA RAMOS"
+   "number": 121,
+   "name": "MONICA",
+   "last_name": "CABELLERA RAMOS"
  },
  {
-   "DORSAL": 123,
-   "NOMBRE": "ALEJANDRO",
-   "APELLIDOS": "JIMENEZ RAMIREZ"
+   "number": 123,
+   "name": "ALEJANDRO",
+   "last_name": "JIMENEZ RAMIREZ"
  },
  {
-   "DORSAL": 124,
-   "NOMBRE": "MOISES",
-   "APELLIDOS": "ALCAZAR"
+   "number": 124,
+   "name": "MOISES",
+   "last_name": "ALCAZAR"
  },
  {
-   "DORSAL": 128,
-   "NOMBRE": "CONSTANTINA",
-   "APELLIDOS": "ARMAS HERNANDE"
+   "number": 128,
+   "name": "CONSTANTINA",
+   "last_name": "ARMAS HERNANDE"
  },
  {
-   "DORSAL": 133,
-   "NOMBRE": "CARLOS ALBERTO",
-   "APELLIDOS": "VALDES GAULT"
+   "number": 133,
+   "name": "CARLOS ALBERTO",
+   "last_name": "VALDES GAULT"
  },
  {
-   "DORSAL": 135,
-   "NOMBRE": "GERARDO",
-   "APELLIDOS": "RUFFINELLI GONZALEZ"
+   "number": 135,
+   "name": "GERARDO",
+   "last_name": "RUFFINELLI GONZALEZ"
  },
  {
-   "DORSAL": 138,
-   "NOMBRE": "MAYRA YAZMIN",
-   "APELLIDOS": "BARONA ALBA"
+   "number": 138,
+   "name": "MAYRA YAZMIN",
+   "last_name": "BARONA ALBA"
  },
  {
-   "DORSAL": 140,
-   "NOMBRE": "EDITH",
-   "APELLIDOS": "VALENCIA VASQUEZ"
+   "number": 140,
+   "name": "EDITH",
+   "last_name": "VALENCIA VASQUEZ"
  },
  {
-   "DORSAL": 141,
-   "NOMBRE": "DAVID",
-   "APELLIDOS": "MAGAÑA HERNANDEZ"
+   "number": 141,
+   "name": "DAVID",
+   "last_name": "MAGAÑA HERNANDEZ"
  },
  {
-   "DORSAL": 142,
-   "NOMBRE": "SERGIO ALFONSO",
-   "APELLIDOS": "GUZMAN AVENDAÑO"
+   "number": 142,
+   "name": "SERGIO ALFONSO",
+   "last_name": "GUZMAN AVENDAÑO"
  },
  {
-   "DORSAL": 143,
-   "NOMBRE": "FERNANDO",
-   "APELLIDOS": "TINOCO ALMANZA"
+   "number": 143,
+   "name": "FERNANDO",
+   "last_name": "TINOCO ALMANZA"
  },
  {
-   "DORSAL": 148,
-   "NOMBRE": "DANIEL",
-   "APELLIDOS": "DUARTE MARTINEZ"
+   "number": 148,
+   "name": "DANIEL",
+   "last_name": "DUARTE MARTINEZ"
  },
  {
-   "DORSAL": 155,
-   "NOMBRE": "GERARDO",
-   "APELLIDOS": "ARMENTA ALTAMIRANO"
+   "number": 155,
+   "name": "GERARDO",
+   "last_name": "ARMENTA ALTAMIRANO"
  },
  {
-   "DORSAL": 156,
-   "NOMBRE": "FRANCISCA AURORA",
-   "APELLIDOS": "PEREZ ROGELIO"
+   "number": 156,
+   "name": "FRANCISCA AURORA",
+   "last_name": "PEREZ ROGELIO"
  },
  {
-   "DORSAL": 165,
-   "NOMBRE": "OSVALDO",
-   "APELLIDOS": "GUZMAN ESPINOZA"
+   "number": 165,
+   "name": "OSVALDO",
+   "last_name": "GUZMAN ESPINOZA"
  },
  {
-   "DORSAL": 166,
-   "NOMBRE": "JUAN MANUEL OLIMPO",
-   "APELLIDOS": "BOLAÑOS PLACIAS"
+   "number": 166,
+   "name": "JUAN MANUEL OLIMPO",
+   "last_name": "BOLAÑOS PLACIAS"
  },
  {
-   "DORSAL": 167,
-   "NOMBRE": "PATRICIA",
-   "APELLIDOS": "PACHECO JUAREZ"
+   "number": 167,
+   "name": "PATRICIA",
+   "last_name": "PACHECO JUAREZ"
  },
  {
-   "DORSAL": 168,
-   "NOMBRE": "ANA PATRICIA",
-   "APELLIDOS": "CHAVEZ PACHECO"
+   "number": 168,
+   "name": "ANA PATRICIA",
+   "last_name": "CHAVEZ PACHECO"
  },
  {
-   "DORSAL": 169,
-   "NOMBRE": "LAURA JANETH",
-   "APELLIDOS": "CHAVEZ PACHECO"
+   "number": 169,
+   "name": "LAURA JANETH",
+   "last_name": "CHAVEZ PACHECO"
  },
  {
-   "DORSAL": 170,
-   "NOMBRE": "ALEJO",
-   "APELLIDOS": "RUIZ BAEZ"
+   "number": 170,
+   "name": "ALEJO",
+   "last_name": "RUIZ BAEZ"
  },
  {
-   "DORSAL": 171,
-   "NOMBRE": "JOSE LUIS",
-   "APELLIDOS": "MORA NIEVES"
+   "number": 171,
+   "name": "JOSE LUIS",
+   "last_name": "MORA NIEVES"
  },
  {
-   "DORSAL": 172,
-   "NOMBRE": "MIGUEL ANGEL",
-   "APELLIDOS": "RUIZ GONZALEZ"
+   "number": 172,
+   "name": "MIGUEL ANGEL",
+   "last_name": "RUIZ GONZALEZ"
  },
  {
-   "DORSAL": 177,
-   "NOMBRE": "NADIA ATZIN",
-   "APELLIDOS": "TLAXCALTECO CONTRERAS"
+   "number": 177,
+   "name": "NADIA ATZIN",
+   "last_name": "TLAXCALTECO CONTRERAS"
  },
  {
-   "DORSAL": 178,
-   "NOMBRE": "VICTOR RAUL",
-   "APELLIDOS": "VELASQUEZ ALVAREZ"
+   "number": 178,
+   "name": "VICTOR RAUL",
+   "last_name": "VELASQUEZ ALVAREZ"
  },
  {
-   "DORSAL": 179,
-   "NOMBRE": "ALEJANDRO",
-   "APELLIDOS": "VASQUEZ JARVIO"
+   "number": 179,
+   "name": "ALEJANDRO",
+   "last_name": "VASQUEZ JARVIO"
  },
  {
-   "DORSAL": 182,
-   "NOMBRE": "ARIAN",
-   "APELLIDOS": "GABRIEL HERNANDEZ"
+   "number": 182,
+   "name": "ARIAN",
+   "last_name": "GABRIEL HERNANDEZ"
  },
  {
-   "DORSAL": 183,
-   "NOMBRE": "JHONATAN GERARDO",
-   "APELLIDOS": "MUNGUIA PARADA"
+   "number": 183,
+   "name": "JHONATAN GERARDO",
+   "last_name": "MUNGUIA PARADA"
  },
  {
-   "DORSAL": 186,
-   "NOMBRE": "ALEJANDRO",
-   "APELLIDOS": "NAVARRO TAPIA"
+   "number": 186,
+   "name": "ALEJANDRO",
+   "last_name": "NAVARRO TAPIA"
  },
  {
-   "DORSAL": 187,
-   "NOMBRE": "OSCAR",
-   "APELLIDOS": "NARVAEZ TREJO"
+   "number": 187,
+   "name": "OSCAR",
+   "last_name": "NARVAEZ TREJO"
  },
  {
-   "DORSAL": 190,
-   "NOMBRE": "SARA",
-   "APELLIDOS": "VELAZQUEZ ROMERO"
+   "number": 190,
+   "name": "SARA",
+   "last_name": "VELAZQUEZ ROMERO"
  },
  {
-   "DORSAL": 198,
-   "NOMBRE": "VIDAL",
-   "APELLIDOS": "DIAZ MUÑOZ"
+   "number": 198,
+   "name": "VIDAL",
+   "last_name": "DIAZ MUÑOZ"
  },
  {
-   "DORSAL": 200,
-   "NOMBRE": "CESAR",
-   "APELLIDOS": "GARMA RIVERA"
+   "number": 200,
+   "name": "CESAR",
+   "last_name": "GARMA RIVERA"
  },
  {
-   "DORSAL": 207,
-   "NOMBRE": "BENJAMIN ARMANDO",
-   "APELLIDOS": "SALGADO ROSALES"
+   "number": 207,
+   "name": "BENJAMIN ARMANDO",
+   "last_name": "SALGADO ROSALES"
  },
  {
-   "DORSAL": 208,
-   "NOMBRE": "GONZALO",
-   "APELLIDOS": "CONTRERAS MENESES"
+   "number": 208,
+   "name": "GONZALO",
+   "last_name": "CONTRERAS MENESES"
  },
  {
-   "DORSAL": 209,
-   "NOMBRE": "LILIANA M.",
-   "APELLIDOS": "BAZAN PARDO"
+   "number": 209,
+   "name": "LILIANA M.",
+   "last_name": "BAZAN PARDO"
  },
  {
-   "DORSAL": 210,
-   "NOMBRE": "OSCAR",
-   "APELLIDOS": "RAMIREZ HUERTA"
+   "number": 210,
+   "name": "OSCAR",
+   "last_name": "RAMIREZ HUERTA"
  },
  {
-   "DORSAL": 212,
-   "NOMBRE": "DAVID",
-   "APELLIDOS": "MERINO CUADROS"
+   "number": 212,
+   "name": "DAVID",
+   "last_name": "MERINO CUADROS"
  },
  {
-   "DORSAL": 214,
-   "NOMBRE": "ANGEL",
-   "APELLIDOS": "MARTINEZ GARCIA"
+   "number": 214,
+   "name": "ANGEL",
+   "last_name": "MARTINEZ GARCIA"
  },
  {
-   "DORSAL": 215,
-   "NOMBRE": "AYESHA",
-   "APELLIDOS": "USCANGA CHAVEZ"
+   "number": 215,
+   "name": "AYESHA",
+   "last_name": "USCANGA CHAVEZ"
  },
  {
-   "DORSAL": 216,
-   "NOMBRE": "ROSALBA",
-   "APELLIDOS": "ROMERO ROJAS"
+   "number": 216,
+   "name": "ROSALBA",
+   "last_name": "ROMERO ROJAS"
  },
  {
-   "DORSAL": 219,
-   "NOMBRE": "ADRIAN",
-   "APELLIDOS": "MARTINEZ HERNANDEZ"
+   "number": 219,
+   "name": "ADRIAN",
+   "last_name": "MARTINEZ HERNANDEZ"
  },
  {
-   "DORSAL": 221,
-   "NOMBRE": "JOSE LUIS",
-   "APELLIDOS": "RAMIREZ ESPINOZA"
+   "number": 221,
+   "name": "JOSE LUIS",
+   "last_name": "RAMIREZ ESPINOZA"
  },
  {
-   "DORSAL": 223,
-   "NOMBRE": "OSWALDO",
-   "APELLIDOS": "COLORADO GONZALES"
+   "number": 223,
+   "name": "OSWALDO",
+   "last_name": "COLORADO GONZALES"
  },
  {
-   "DORSAL": 224,
-   "NOMBRE": "ANA LILIA",
-   "APELLIDOS": "MIRELES GAMEZ"
+   "number": 224,
+   "name": "ANA LILIA",
+   "last_name": "MIRELES GAMEZ"
  },
  {
-   "DORSAL": 226,
-   "NOMBRE": "ARACELY",
-   "APELLIDOS": "MORENO HERNANDEZ"
+   "number": 226,
+   "name": "ARACELY",
+   "last_name": "MORENO HERNANDEZ"
  },
  {
-   "DORSAL": 228,
-   "NOMBRE": "ALEJANDRA",
-   "APELLIDOS": "CASTRO GOMEZ"
+   "number": 228,
+   "name": "ALEJANDRA",
+   "last_name": "CASTRO GOMEZ"
  },
  {
-   "DORSAL": 235,
-   "NOMBRE": "RICARDO",
-   "APELLIDOS": "RAMIREZ MENESES"
+   "number": 235,
+   "name": "RICARDO",
+   "last_name": "RAMIREZ MENESES"
  },
  {
-   "DORSAL": 240,
-   "NOMBRE": "JOSE ANGEL",
-   "APELLIDOS": "MENDEZ CARRERA"
+   "number": 240,
+   "name": "JOSE ANGEL",
+   "last_name": "MENDEZ CARRERA"
  },
  {
-   "DORSAL": 247,
-   "NOMBRE": "MARCO ANTONIO",
-   "APELLIDOS": "CAMPOS HERNANDEZ"
+   "number": 247,
+   "name": "MARCO ANTONIO",
+   "last_name": "CAMPOS HERNANDEZ"
  },
  {
-   "DORSAL": 252,
-   "NOMBRE": "RICARDO",
-   "APELLIDOS": "VELAZQUEZ MOCTEZUMA"
+   "number": 252,
+   "name": "RICARDO",
+   "last_name": "VELAZQUEZ MOCTEZUMA"
  },
  {
-   "DORSAL": 253,
-   "NOMBRE": "LUCIA",
-   "APELLIDOS": "MORALES HERNANDEZ"
+   "number": 253,
+   "name": "LUCIA",
+   "last_name": "MORALES HERNANDEZ"
  },
  {
-   "DORSAL": 254,
-   "NOMBRE": "ABEL",
-   "APELLIDOS": "CHAVEZ ROMERO"
+   "number": 254,
+   "name": "ABEL",
+   "last_name": "CHAVEZ ROMERO"
  },
  {
-   "DORSAL": 261,
-   "NOMBRE": "ESTEBAN",
-   "APELLIDOS": "CRUZ GUZMAN"
+   "number": 261,
+   "name": "ESTEBAN",
+   "last_name": "CRUZ GUZMAN"
  },
  {
-   "DORSAL": 267,
-   "NOMBRE": "MAURICIO",
-   "APELLIDOS": "MORALES TEYSSIER"
+   "number": 267,
+   "name": "MAURICIO",
+   "last_name": "MORALES TEYSSIER"
  },
  {
-   "DORSAL": 268,
-   "NOMBRE": "JOSE LUIS",
-   "APELLIDOS": "GABRIEL HERNANDEZ"
+   "number": 268,
+   "name": "JOSE LUIS",
+   "last_name": "GABRIEL HERNANDEZ"
  },
  {
-   "DORSAL": 269,
-   "NOMBRE": "GINA AURORA",
-   "APELLIDOS": "CANO PINEDO"
+   "number": 269,
+   "name": "GINA AURORA",
+   "last_name": "CANO PINEDO"
  },
  {
-   "DORSAL": 270,
-   "NOMBRE": "MANUEL ANTONIO",
-   "APELLIDOS": "MEZA VAZQUEZ"
+   "number": 270,
+   "name": "MANUEL ANTONIO",
+   "last_name": "MEZA VAZQUEZ"
  },
  {
-   "DORSAL": 272,
-   "NOMBRE": "LAURA MARIA",
-   "APELLIDOS": "CABAL RODRIGUEZ"
+   "number": 272,
+   "name": "LAURA MARIA",
+   "last_name": "CABAL RODRIGUEZ"
  },
  {
-   "DORSAL": 276,
-   "NOMBRE": "DINORA IRIS",
-   "APELLIDOS": "RUIZ GONZALEZ"
+   "number": 276,
+   "name": "DINORA IRIS",
+   "last_name": "RUIZ GONZALEZ"
  },
  {
-   "DORSAL": 278,
-   "NOMBRE": "JUAN ISMAEL",
-   "APELLIDOS": "GARCIA BAROJAS"
+   "number": 278,
+   "name": "JUAN ISMAEL",
+   "last_name": "GARCIA BAROJAS"
  },
  {
-   "DORSAL": 279,
-   "NOMBRE": "URIEL",
-   "APELLIDOS": "CALTE MENDOZA"
+   "number": 279,
+   "name": "URIEL",
+   "last_name": "CALTE MENDOZA"
  },
  {
-   "DORSAL": 280,
-   "NOMBRE": "JORGE ALBERTO",
-   "APELLIDOS": "LOPEZ CARMONA"
+   "number": 280,
+   "name": "JORGE ALBERTO",
+   "last_name": "LOPEZ CARMONA"
  },
  {
-   "DORSAL": 281,
-   "NOMBRE": "NANCY STEPHANIE",
-   "APELLIDOS": "GUARNEROS AGUILAR"
+   "number": 281,
+   "name": "NANCY STEPHANIE",
+   "last_name": "GUARNEROS AGUILAR"
  },
  {
-   "DORSAL": 282,
-   "NOMBRE": "JUVENTINO",
-   "APELLIDOS": "GONZALEZ CAZARIN"
+   "number": 282,
+   "name": "JUVENTINO",
+   "last_name": "GONZALEZ CAZARIN"
  },
  {
-   "DORSAL": 283,
-   "NOMBRE": "RAUL ANDRES",
-   "APELLIDOS": "LOPEZ LARES"
+   "number": 283,
+   "name": "RAUL ANDRES",
+   "last_name": "LOPEZ LARES"
  },
  {
-   "DORSAL": 284,
-   "NOMBRE": "JOSE ANTONIO",
-   "APELLIDOS": "RUBIO SUASTEGUI"
+   "number": 284,
+   "name": "JOSE ANTONIO",
+   "last_name": "RUBIO SUASTEGUI"
  },
  {
-   "DORSAL": 285,
-   "NOMBRE": "DIANA ESMERALDA",
-   "APELLIDOS": "GUTIERREZ VALENCIA"
+   "number": 285,
+   "name": "DIANA ESMERALDA",
+   "last_name": "GUTIERREZ VALENCIA"
  },
  {
-   "DORSAL": 286,
-   "NOMBRE": "ISEL VIRIDIANA",
-   "APELLIDOS": "ROMAN GRACIA"
+   "number": 286,
+   "name": "ISEL VIRIDIANA",
+   "last_name": "ROMAN GRACIA"
  },
  {
-   "DORSAL": 287,
-   "NOMBRE": "MARCO ANTONIO",
-   "APELLIDOS": "HACES SANCHEZ"
+   "number": 287,
+   "name": "MARCO ANTONIO",
+   "last_name": "HACES SANCHEZ"
  },
  {
-   "DORSAL": 288,
-   "NOMBRE": "ARIANA DANIELA",
-   "APELLIDOS": "ESCOBAR CHAVEZ"
+   "number": 288,
+   "name": "ARIANA DANIELA",
+   "last_name": "ESCOBAR CHAVEZ"
  },
  {
-   "DORSAL": 289,
-   "NOMBRE": "EDGAR",
-   "APELLIDOS": "LAGUNES GARCIA"
+   "number": 289,
+   "name": "EDGAR",
+   "last_name": "LAGUNES GARCIA"
  },
  {
-   "DORSAL": 291,
-   "NOMBRE": "YARIM",
-   "APELLIDOS": "VIVANCO RUIZ"
+   "number": 291,
+   "name": "YARIM",
+   "last_name": "VIVANCO RUIZ"
  },
  {
-   "DORSAL": 292,
-   "NOMBRE": "MARY CRUZ",
-   "APELLIDOS": "TORRES PEREZ"
+   "number": 292,
+   "name": "MARY CRUZ",
+   "last_name": "TORRES PEREZ"
  },
  {
-   "DORSAL": 300,
-   "NOMBRE": "ALMA VERONICA",
-   "APELLIDOS": "RODRIGUEZ SANCHEZ"
+   "number": 300,
+   "name": "ALMA VERONICA",
+   "last_name": "RODRIGUEZ SANCHEZ"
  },
  {
-   "DORSAL": 306,
-   "NOMBRE": "ARACELI",
-   "APELLIDOS": "LEAL MARTINEZ"
+   "number": 306,
+   "name": "ARACELI",
+   "last_name": "LEAL MARTINEZ"
  },
  {
-   "DORSAL": 307,
-   "NOMBRE": "ARIADNA",
-   "APELLIDOS": "ORTIZ MARTINEZ"
+   "number": 307,
+   "name": "ARIADNA",
+   "last_name": "ORTIZ MARTINEZ"
  },
  {
-   "DORSAL": 308,
-   "NOMBRE": "ALMA LETICIA",
-   "APELLIDOS": "MOTA RAMOS"
+   "number": 308,
+   "name": "ALMA LETICIA",
+   "last_name": "MOTA RAMOS"
  },
  {
-   "DORSAL": 312,
-   "NOMBRE": "ANTONIO IVAN",
-   "APELLIDOS": "MELGAREJO HDZ"
+   "number": 312,
+   "name": "ANTONIO IVAN",
+   "last_name": "MELGAREJO HDZ"
  },
  {
-   "DORSAL": 313,
-   "NOMBRE": "CESAR",
-   "APELLIDOS": "GARCIA DUEÑAS"
+   "number": 313,
+   "name": "CESAR",
+   "last_name": "GARCIA DUEÑAS"
  },
  {
-   "DORSAL": 314,
-   "NOMBRE": "MA. CONCEPCION",
-   "APELLIDOS": "MANCILLA GONZALEZ"
+   "number": 314,
+   "name": "MA. CONCEPCION",
+   "last_name": "MANCILLA GONZALEZ"
  },
  {
-   "DORSAL": 315,
-   "NOMBRE": "JOSE ELIEZER",
-   "APELLIDOS": "RODRIGUEZ CRUZ"
+   "number": 315,
+   "name": "JOSE ELIEZER",
+   "last_name": "RODRIGUEZ CRUZ"
  },
  {
-   "DORSAL": 318,
-   "NOMBRE": "JOSE MANUEL",
-   "APELLIDOS": "CUEVAS ROMERO"
+   "number": 318,
+   "name": "JOSE MANUEL",
+   "last_name": "CUEVAS ROMERO"
  },
  {
-   "DORSAL": 320,
-   "NOMBRE": "IVAN",
-   "APELLIDOS": "VILLA RODRIGUEZ"
+   "number": 320,
+   "name": "IVAN",
+   "last_name": "VILLA RODRIGUEZ"
  },
  {
-   "DORSAL": 323,
-   "NOMBRE": "ARMANDO",
-   "APELLIDOS": "GONZALEZ LOPEZ"
+   "number": 323,
+   "name": "ARMANDO",
+   "last_name": "GONZALEZ LOPEZ"
  },
  {
-   "DORSAL": 324,
-   "NOMBRE": "LUIS FERNANDO",
-   "APELLIDOS": "AGUILAR ZAYAS"
+   "number": 324,
+   "name": "LUIS FERNANDO",
+   "last_name": "AGUILAR ZAYAS"
  },
  {
-   "DORSAL": 327,
-   "NOMBRE": "ALMA DELIA",
-   "APELLIDOS": "LANDERO HERNANDEZ"
+   "number": 327,
+   "name": "ALMA DELIA",
+   "last_name": "LANDERO HERNANDEZ"
  },
  {
-   "DORSAL": 328,
-   "NOMBRE": "CLAUDIA ADRIANA",
-   "APELLIDOS": "MARQUEZ MORALES"
+   "number": 328,
+   "name": "CLAUDIA ADRIANA",
+   "last_name": "MARQUEZ MORALES"
  },
  {
-   "DORSAL": 335,
-   "NOMBRE": "CESAR",
-   "APELLIDOS": "ESPINOSA SOLIS"
+   "number": 335,
+   "name": "CESAR",
+   "last_name": "ESPINOSA SOLIS"
  },
  {
-   "DORSAL": 338,
-   "NOMBRE": "MARIO MANUEL",
-   "APELLIDOS": "MENDOZA GONZALEZ"
+   "number": 338,
+   "name": "MARIO MANUEL",
+   "last_name": "MENDOZA GONZALEZ"
  },
  {
-   "DORSAL": 343,
-   "NOMBRE": "YERELLI YURITZI",
-   "APELLIDOS": "CASTELLANOS GONZALEZ"
+   "number": 343,
+   "name": "YERELLI YURITZI",
+   "last_name": "CASTELLANOS GONZALEZ"
  },
  {
-   "DORSAL": 344,
-   "NOMBRE": "PEDRO RAFAEL",
-   "APELLIDOS": "SANCHEZ VELAZQUEZ"
+   "number": 344,
+   "name": "PEDRO RAFAEL",
+   "last_name": "SANCHEZ VELAZQUEZ"
  },
  {
-   "DORSAL": 345,
-   "NOMBRE": "VICENTE",
-   "APELLIDOS": "HERNANDEZ HDEZ"
+   "number": 345,
+   "name": "VICENTE",
+   "last_name": "HERNANDEZ HDEZ"
  },
  {
-   "DORSAL": 347,
-   "NOMBRE": "GERARDO",
-   "APELLIDOS": "MEADE TREVINO"
+   "number": 347,
+   "name": "GERARDO",
+   "last_name": "MEADE TREVINO"
  },
  {
-   "DORSAL": 348,
-   "NOMBRE": "CARLOS",
-   "APELLIDOS": "SANCHEZ LOPEZ"
+   "number": 348,
+   "name": "CARLOS",
+   "last_name": "SANCHEZ LOPEZ"
  },
  {
-   "DORSAL": 349,
-   "NOMBRE": "MARIO ALBERTO",
-   "APELLIDOS": "CAMACHO GUEVARA"
+   "number": 349,
+   "name": "MARIO ALBERTO",
+   "last_name": "CAMACHO GUEVARA"
  },
  {
-   "DORSAL": 350,
-   "NOMBRE": "MARIA ELENA",
-   "APELLIDOS": "ALVARADO GONZALEZ"
+   "number": 350,
+   "name": "MARIA ELENA",
+   "last_name": "ALVARADO GONZALEZ"
  },
  {
-   "DORSAL": 352,
-   "NOMBRE": "JUAN CARLOS",
-   "APELLIDOS": "NAVARRO PIEDRA"
+   "number": 352,
+   "name": "JUAN CARLOS",
+   "last_name": "NAVARRO PIEDRA"
  },
  {
-   "DORSAL": 359,
-   "NOMBRE": "MANUEL",
-   "APELLIDOS": "SHANCHEZ DIAZ"
+   "number": 359,
+   "name": "MANUEL",
+   "last_name": "SHANCHEZ DIAZ"
  },
  {
-   "DORSAL": 361,
-   "NOMBRE": "ALBERTO ALEJANDRO",
-   "APELLIDOS": "RIVERA PONCE"
+   "number": 361,
+   "name": "ALBERTO ALEJANDRO",
+   "last_name": "RIVERA PONCE"
  },
  {
-   "DORSAL": 362,
-   "NOMBRE": "JESUS",
-   "APELLIDOS": "SOTO PALACIOS"
+   "number": 362,
+   "name": "JESUS",
+   "last_name": "SOTO PALACIOS"
  },
  {
-   "DORSAL": 368,
-   "NOMBRE": "JUAN MANUEL",
-   "APELLIDOS": "RAMIREZ HDEZ"
+   "number": 368,
+   "name": "JUAN MANUEL",
+   "last_name": "RAMIREZ HDEZ"
  },
  {
-   "DORSAL": 373,
-   "NOMBRE": "APOLO FCO",
-   "APELLIDOS": "ATANACIO MEDELLIN"
+   "number": 373,
+   "name": "APOLO FCO",
+   "last_name": "ATANACIO MEDELLIN"
  },
  {
-   "DORSAL": 375,
-   "NOMBRE": "JUAN ANTONIO",
-   "APELLIDOS": "GUTIERREZ RIVAS"
+   "number": 375,
+   "name": "JUAN ANTONIO",
+   "last_name": "GUTIERREZ RIVAS"
  },
  {
-   "DORSAL": 377,
-   "NOMBRE": "BERNARDINA",
-   "APELLIDOS": "FISCAL MALAGA"
+   "number": 377,
+   "name": "BERNARDINA",
+   "last_name": "FISCAL MALAGA"
  },
  {
-   "DORSAL": 378,
-   "NOMBRE": "MARIA ROSA",
-   "APELLIDOS": "LIMA SANCHEZ"
+   "number": 378,
+   "name": "MARIA ROSA",
+   "last_name": "LIMA SANCHEZ"
  },
  {
-   "DORSAL": 381,
-   "NOMBRE": "INDIRA",
-   "APELLIDOS": "SALAS VELAZQUEZ"
+   "number": 381,
+   "name": "INDIRA",
+   "last_name": "SALAS VELAZQUEZ"
  },
  {
-   "DORSAL": 388,
-   "NOMBRE": "NOE",
-   "APELLIDOS": "CORDOVA LOZANO"
+   "number": 388,
+   "name": "NOE",
+   "last_name": "CORDOVA LOZANO"
  },
  {
-   "DORSAL": 389,
-   "NOMBRE": "JOSE CARLOS XAVIER",
-   "APELLIDOS": "YAÑEZ ZUÑIGA"
+   "number": 389,
+   "name": "JOSE CARLOS XAVIER",
+   "last_name": "YAÑEZ ZUÑIGA"
  },
  {
-   "DORSAL": 394,
-   "NOMBRE": "MARIO",
-   "APELLIDOS": "PEREZ BAUTISTA"
+   "number": 394,
+   "name": "MARIO",
+   "last_name": "PEREZ BAUTISTA"
  },
  {
-   "DORSAL": 395,
-   "NOMBRE": "HUGO ENRIQUE",
-   "APELLIDOS": "HERNANDEZ RUIZ"
+   "number": 395,
+   "name": "HUGO ENRIQUE",
+   "last_name": "HERNANDEZ RUIZ"
  },
  {
-   "DORSAL": 396,
-   "NOMBRE": "PEDRO",
-   "APELLIDOS": "LOPEZ HERNANDEZ"
+   "number": 396,
+   "name": "PEDRO",
+   "last_name": "LOPEZ HERNANDEZ"
  },
  {
-   "DORSAL": 397,
-   "NOMBRE": "ERNESTO",
-   "APELLIDOS": "LOPEZ HERNANDEZ"
+   "number": 397,
+   "name": "ERNESTO",
+   "last_name": "LOPEZ HERNANDEZ"
  },
  {
-   "DORSAL": 398,
-   "NOMBRE": "MARCO ANTONIO",
-   "APELLIDOS": "LOPEZ HERNANDEZ"
+   "number": 398,
+   "name": "MARCO ANTONIO",
+   "last_name": "LOPEZ HERNANDEZ"
  },
  {
-   "DORSAL": 399,
-   "NOMBRE": "ELIZABETH",
-   "APELLIDOS": "LOPEZ HERNANDEZ"
+   "number": 399,
+   "name": "ELIZABETH",
+   "last_name": "LOPEZ HERNANDEZ"
  },
  {
-   "DORSAL": 403,
-   "NOMBRE": "JUAN JOSE",
-   "APELLIDOS": "GALINDO GRANDE"
+   "number": 403,
+   "name": "JUAN JOSE",
+   "last_name": "GALINDO GRANDE"
  },
  {
-   "DORSAL": 406,
-   "NOMBRE": "ISRAEL",
-   "APELLIDOS": "NOLASCO MEDRANO"
+   "number": 406,
+   "name": "ISRAEL",
+   "last_name": "NOLASCO MEDRANO"
  },
  {
-   "DORSAL": 407,
-   "NOMBRE": "RAFAEL OCTAVIO",
-   "APELLIDOS": "HUERTA  VIGORITTO"
+   "number": 407,
+   "name": "RAFAEL OCTAVIO",
+   "last_name": "HUERTA  VIGORITTO"
  },
  {
-   "DORSAL": 411,
-   "NOMBRE": "AMADEO DAVID",
-   "APELLIDOS": "TECALCO REYES"
+   "number": 411,
+   "name": "AMADEO DAVID",
+   "last_name": "TECALCO REYES"
  },
  {
-   "DORSAL": 412,
-   "NOMBRE": "DULCE CAROLINA",
-   "APELLIDOS": "PEREZ SANTIAGO"
+   "number": 412,
+   "name": "DULCE CAROLINA",
+   "last_name": "PEREZ SANTIAGO"
  },
  {
-   "DORSAL": 415,
-   "NOMBRE": "DARIO ALBERTO",
-   "APELLIDOS": "PEREZ HERNANDEZ"
+   "number": 415,
+   "name": "DARIO ALBERTO",
+   "last_name": "PEREZ HERNANDEZ"
  },
  {
-   "DORSAL": 416,
-   "NOMBRE": "RAUL JAVIER",
-   "APELLIDOS": "MESA OLIVA"
+   "number": 416,
+   "name": "RAUL JAVIER",
+   "last_name": "MESA OLIVA"
  },
  {
-   "DORSAL": 419,
-   "NOMBRE": "MANUEL ALEJAND.",
-   "APELLIDOS": "BALTAZAR CALDERON"
+   "number": 419,
+   "name": "MANUEL ALEJAND.",
+   "last_name": "BALTAZAR CALDERON"
  },
  {
-   "DORSAL": 420,
-   "NOMBRE": "JESUS ANTONIO",
-   "APELLIDOS": "RAMIREZ LOPEZ"
+   "number": 420,
+   "name": "JESUS ANTONIO",
+   "last_name": "RAMIREZ LOPEZ"
  },
  {
-   "DORSAL": 421,
-   "NOMBRE": "MARIA DOLORES",
-   "APELLIDOS": "GOMEZ SANDOVAL"
+   "number": 421,
+   "name": "MARIA DOLORES",
+   "last_name": "GOMEZ SANDOVAL"
  },
  {
-   "DORSAL": 422,
-   "NOMBRE": "EMMANUEL",
-   "APELLIDOS": "DERIEUX"
+   "number": 422,
+   "name": "EMMANUEL",
+   "last_name": "DERIEUX"
  },
  {
-   "DORSAL": 423,
-   "NOMBRE": "JOSE FIDEL",
-   "APELLIDOS": "MARTINEZ FLORES"
+   "number": 423,
+   "name": "JOSE FIDEL",
+   "last_name": "MARTINEZ FLORES"
  },
  {
-   "DORSAL": 424,
-   "NOMBRE": "HECTOR OMAR",
-   "APELLIDOS": "RODRIGUEZ"
+   "number": 424,
+   "name": "HECTOR OMAR",
+   "last_name": "RODRIGUEZ"
  },
  {
-   "DORSAL": 427,
-   "NOMBRE": "ROCIO MONTSERRAT",
-   "APELLIDOS": "NAVA MACORRA"
+   "number": 427,
+   "name": "ROCIO MONTSERRAT",
+   "last_name": "NAVA MACORRA"
  },
  {
-   "DORSAL": 430,
-   "NOMBRE": "HUMBERTO",
-   "APELLIDOS": "GONZALEZ DEL CARMEN"
+   "number": 430,
+   "name": "HUMBERTO",
+   "last_name": "GONZALEZ DEL CARMEN"
  },
  {
-   "DORSAL": 431,
-   "NOMBRE": "JAIRO",
-   "APELLIDOS": "JUAREZ SOLIS"
+   "number": 431,
+   "name": "JAIRO",
+   "last_name": "JUAREZ SOLIS"
  },
  {
-   "DORSAL": 436,
-   "NOMBRE": "JULIO CESAR",
-   "APELLIDOS": "CRUZ RODRIGUEZ"
+   "number": 436,
+   "name": "JULIO CESAR",
+   "last_name": "CRUZ RODRIGUEZ"
  },
  {
-   "DORSAL": 437,
-   "NOMBRE": "JORGE",
-   "APELLIDOS": "NARVAEZ DIAZ"
+   "number": 437,
+   "name": "JORGE",
+   "last_name": "NARVAEZ DIAZ"
  },
  {
-   "DORSAL": 438,
-   "NOMBRE": "CESAR ISRAEL",
-   "APELLIDOS": "CORTES RAMIREZ"
+   "number": 438,
+   "name": "CESAR ISRAEL",
+   "last_name": "CORTES RAMIREZ"
  },
  {
-   "DORSAL": 439,
-   "NOMBRE": "HUMBERTO",
-   "APELLIDOS": "MUNGUIA CERVANTES"
+   "number": 439,
+   "name": "HUMBERTO",
+   "last_name": "MUNGUIA CERVANTES"
  },
  {
-   "DORSAL": 440,
-   "NOMBRE": "MARIO LUIS",
-   "APELLIDOS": "JUAREZ TORRES"
+   "number": 440,
+   "name": "MARIO LUIS",
+   "last_name": "JUAREZ TORRES"
  },
  {
-   "DORSAL": 444,
-   "NOMBRE": "IRVING ENRIQUE",
-   "APELLIDOS": "SANCHEZ"
+   "number": 444,
+   "name": "IRVING ENRIQUE",
+   "last_name": "SANCHEZ"
  },
  {
-   "DORSAL": 446,
-   "NOMBRE": "GREGORIA",
-   "APELLIDOS": "SANDOVAL MONTALVO"
+   "number": 446,
+   "name": "GREGORIA",
+   "last_name": "SANDOVAL MONTALVO"
  },
  {
-   "DORSAL": 447,
-   "NOMBRE": "JORGE",
-   "APELLIDOS": "MARTINEZ LUNA"
+   "number": 447,
+   "name": "JORGE",
+   "last_name": "MARTINEZ LUNA"
  },
  {
-   "DORSAL": 450,
-   "NOMBRE": "VICTOR MANUEL",
-   "APELLIDOS": "GRANILLO LOPEZ"
+   "number": 450,
+   "name": "VICTOR MANUEL",
+   "last_name": "GRANILLO LOPEZ"
  },
  {
-   "DORSAL": 451,
-   "NOMBRE": "KARLA EDITH",
-   "APELLIDOS": "AYUSO ESPINOSA"
+   "number": 451,
+   "name": "KARLA EDITH",
+   "last_name": "AYUSO ESPINOSA"
  },
  {
-   "DORSAL": 456,
-   "NOMBRE": "EDUARDO",
-   "APELLIDOS": "PEREZRUL RUIZ"
+   "number": 456,
+   "name": "EDUARDO",
+   "last_name": "PEREZRUL RUIZ"
  },
  {
-   "DORSAL": 457,
-   "NOMBRE": "CLAUDIA",
-   "APELLIDOS": "DOMINGUEZ SAINZ"
+   "number": 457,
+   "name": "CLAUDIA",
+   "last_name": "DOMINGUEZ SAINZ"
  },
  {
-   "DORSAL": 460,
-   "NOMBRE": "MARIA ELENA",
-   "APELLIDOS": "CASTILLO HERNANDEZ"
+   "number": 460,
+   "name": "MARIA ELENA",
+   "last_name": "CASTILLO HERNANDEZ"
  },
  {
-   "DORSAL": 462,
-   "NOMBRE": "ANA LILIA",
-   "APELLIDOS": "SABINO MORFIN"
+   "number": 462,
+   "name": "ANA LILIA",
+   "last_name": "SABINO MORFIN"
  },
  {
-   "DORSAL": 463,
-   "NOMBRE": "MARCELA",
-   "APELLIDOS": "MERELO CARDENAS"
+   "number": 463,
+   "name": "MARCELA",
+   "last_name": "MERELO CARDENAS"
  },
  {
-   "DORSAL": 469,
-   "NOMBRE": "JUAN DAVID",
-   "APELLIDOS": "SOLIS CALVO"
+   "number": 469,
+   "name": "JUAN DAVID",
+   "last_name": "SOLIS CALVO"
  },
  {
-   "DORSAL": 471,
-   "NOMBRE": "HORACIO JAVIER",
-   "APELLIDOS": "CASTAÑEDA"
+   "number": 471,
+   "name": "HORACIO JAVIER",
+   "last_name": "CASTAÑEDA"
  },
  {
-   "DORSAL": 475,
-   "NOMBRE": "JESUS ALONSO",
-   "APELLIDOS": "CHACON REYES"
+   "number": 475,
+   "name": "JESUS ALONSO",
+   "last_name": "CHACON REYES"
  },
  {
-   "DORSAL": 483,
-   "NOMBRE": "JULIO RAMSES",
-   "APELLIDOS": "PEREZ SANCHEZ"
+   "number": 483,
+   "name": "JULIO RAMSES",
+   "last_name": "PEREZ SANCHEZ"
  },
  {
-   "DORSAL": 484,
-   "NOMBRE": "RICARDO",
-   "APELLIDOS": "RGUEZ DEMENEGI"
+   "number": 484,
+   "name": "RICARDO",
+   "last_name": "RGUEZ DEMENEGI"
  },
  {
-   "DORSAL": 485,
-   "NOMBRE": "JUDITH SELENE",
-   "APELLIDOS": "CARO CASTILLO"
+   "number": 485,
+   "name": "JUDITH SELENE",
+   "last_name": "CARO CASTILLO"
  },
  {
-   "DORSAL": 487,
-   "NOMBRE": "NICASIO ADAN",
-   "APELLIDOS": "NORIEGA BRENIS"
+   "number": 487,
+   "name": "NICASIO ADAN",
+   "last_name": "NORIEGA BRENIS"
  },
  {
-   "DORSAL": 488,
-   "NOMBRE": "EDUARDO",
-   "APELLIDOS": "MTZ JIMENEZ"
+   "number": 488,
+   "name": "EDUARDO",
+   "last_name": "MTZ JIMENEZ"
  },
  {
-   "DORSAL": 489,
-   "NOMBRE": "MARIBEL",
-   "APELLIDOS": "GARCIA GARCIA"
+   "number": 489,
+   "name": "MARIBEL",
+   "last_name": "GARCIA GARCIA"
  },
  {
-   "DORSAL": 490,
-   "NOMBRE": "ERIKA",
-   "APELLIDOS": "MTZ JIMENEZ"
+   "number": 490,
+   "name": "ERIKA",
+   "last_name": "MTZ JIMENEZ"
  },
  {
-   "DORSAL": 491,
-   "NOMBRE": "BRYAN JAIRCINIO",
-   "APELLIDOS": "ESPINOZA AMADOR"
+   "number": 491,
+   "name": "BRYAN JAIRCINIO",
+   "last_name": "ESPINOZA AMADOR"
  },
  {
-   "DORSAL": 492,
-   "NOMBRE": "SILVA ANGELICA",
-   "APELLIDOS": "GROCTH HDZ"
+   "number": 492,
+   "name": "SILVA ANGELICA",
+   "last_name": "GROCTH HDZ"
  },
  {
-   "DORSAL": 493,
-   "NOMBRE": "TOMAS",
-   "APELLIDOS": "BARRON CANSINO"
+   "number": 493,
+   "name": "TOMAS",
+   "last_name": "BARRON CANSINO"
  },
  {
-   "DORSAL": 494,
-   "NOMBRE": "PRIMAVERA",
-   "APELLIDOS": "MERCADO PEREZ"
+   "number": 494,
+   "name": "PRIMAVERA",
+   "last_name": "MERCADO PEREZ"
  },
  {
-   "DORSAL": 497,
-   "NOMBRE": "ARMANDO",
-   "APELLIDOS": "COZAR GUZMAN"
+   "number": 497,
+   "name": "ARMANDO",
+   "last_name": "COZAR GUZMAN"
  },
  {
-   "DORSAL": 498,
-   "NOMBRE": "DANIEL YAIR",
-   "APELLIDOS": "SOTO LEYVA"
+   "number": 498,
+   "name": "DANIEL YAIR",
+   "last_name": "SOTO LEYVA"
  },
  {
-   "DORSAL": 499,
-   "NOMBRE": "ANTONIO",
-   "APELLIDOS": "PEREZ CANSECO"
+   "number": 499,
+   "name": "ANTONIO",
+   "last_name": "PEREZ CANSECO"
  },
  {
-   "DORSAL": 500,
-   "NOMBRE": "IVAN DE JESUS",
-   "APELLIDOS": "ALFONSO GARCIA"
+   "number": 500,
+   "name": "IVAN DE JESUS",
+   "last_name": "ALFONSO GARCIA"
  },
  {
-   "DORSAL": 501,
-   "NOMBRE": "LEONEL",
-   "APELLIDOS": "CUEVAS APARICIO"
+   "number": 501,
+   "name": "LEONEL",
+   "last_name": "CUEVAS APARICIO"
  },
  {
-   "DORSAL": 503,
-   "NOMBRE": "CORREDOR 9",
-   "APELLIDOS": "CORTESIA"
+   "number": 503,
+   "name": "CORREDOR 9",
+   "last_name": "CORTESIA"
  },
  {
-   "DORSAL": 504,
-   "NOMBRE": "CORREDOR 10",
-   "APELLIDOS": "CORTESIA"
+   "number": 504,
+   "name": "CORREDOR 10",
+   "last_name": "CORTESIA"
  },
  {
-   "DORSAL": 505,
-   "NOMBRE": "CORREDOR 11",
-   "APELLIDOS": "CORTESIA"
+   "number": 505,
+   "name": "CORREDOR 11",
+   "last_name": "CORTESIA"
  },
  {
-   "DORSAL": 506,
-   "NOMBRE": "CORREDOR 12",
-   "APELLIDOS": "CORTESIA"
+   "number": 506,
+   "name": "CORREDOR 12",
+   "last_name": "CORTESIA"
  },
  {
-   "DORSAL": 507,
-   "NOMBRE": "CORREDOR 13",
-   "APELLIDOS": "CORTESIA"
+   "number": 507,
+   "name": "CORREDOR 13",
+   "last_name": "CORTESIA"
  },
  {
-   "DORSAL": 508,
-   "NOMBRE": "CORREDOR 14",
-   "APELLIDOS": "CORTESIA"
+   "number": 508,
+   "name": "CORREDOR 14",
+   "last_name": "CORTESIA"
  },
  {
-   "DORSAL": 509,
-   "NOMBRE": "CORREDOR 15",
-   "APELLIDOS": "CORTESIA"
+   "number": 509,
+   "name": "CORREDOR 15",
+   "last_name": "CORTESIA"
  },
  {
-   "DORSAL": 510,
-   "NOMBRE": "CORREDOR 16",
-   "APELLIDOS": "CORTESIA"
+   "number": 510,
+   "name": "CORREDOR 16",
+   "last_name": "CORTESIA"
  }
 ]
