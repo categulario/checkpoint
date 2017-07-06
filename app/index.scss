@@ -15,15 +15,20 @@ body {
 #entry {
     height: 80px;
 
-    input {
-        border: 0;
-        text-align: center;
-        font-size: 28px;
+    form {
         width: 100%;
         height: 100%;
-        box-sizing: border-box;
-        background-color: #31BBD0;
-        color: #3f3f3f;
+
+        input {
+            border: 0;
+            text-align: center;
+            font-size: 28px;
+            width: 100%;
+            height: 100%;
+            box-sizing: border-box;
+            background-color: #31BBD0;
+            color: #3f3f3f;
+        }
     }
 }
 
@@ -33,30 +38,37 @@ body {
     height: calc(100vh - 80px);
 
     flex-wrap: wrap;
-    justify-content: flex-start;
-    align-content: flex-start;
+    justify-content: space-around;
 
     padding: 10px;
     box-sizing: border-box;
     overflow-y: scroll;
 
     .record {
-        padding: 5px;
         background-color: gray;
-        height: 80px;
 
         flex-grow: 0;
         flex-shrink: 1;
-        flex-basis: 20%;
+        flex-basis: 230px;
 
         margin-bottom: 10px;
         margin-right: 10px;
 
         .runner {
             font-size: 50px;
+            text-align: center;
+            height: 50px;
+        }
+
+        .name {
+            height: 20px;
+            padding: 5px;
+            text-overflow: ellipsis;
+            overflow: hidden;
         }
 
         .time {
+            background-color: white;
             text-align: center;
         }
     }

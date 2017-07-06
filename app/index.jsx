@@ -8,8 +8,12 @@ class HelloWorld extends Component {
     super(props);
 
     this.state = {
+      runner: '',
       records: [],
     };
+
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
   componentDidMount() {
@@ -23,7 +27,26 @@ class HelloWorld extends Component {
 
   onLoad(event) {
     this.setState({
-      records: JSON.parse(event.target.responseText),
+      runner: '',
+      records: JSON.parse(event.target.responseText).map((r) => ({
+        key: r.key,
+        name: r.name.toLowerCase(),
+        last_name: r.last_name.toLowerCase(),
+        time: null,
+      })),
+    });
+  }
+
+  handleSubmit(event) {
+    this.setState({
+      runner: '',
+    });
+    event.preventDefault();
+  }
+
+  handleChange(event) {
+    this.setState({
+      runner: event.target.value,
     });
   }
 
@@ -32,13 +55,16 @@ class HelloWorld extends Component {
       <div>
         <div id="app">
           <div id="entry">
-            <input type="text" autofocus name="runner" placeholder="Número del corredor"/>
+            <form onSubmit={this.handleSubmit}>
+              <input type="text" value={this.state.runner} autoFocus name="runner" placeholder="Número del corredor" onChange={this.handleChange} autoComplete="off"/>
+            </form>
           </div>
 
           <div id="recorded-times">
             { this.state.records.map((r) => (
               <div className="record">
-                <div className="runner">{ r.number }</div>
+                <div className="runner">{ r.key }</div>
+                <div className="name"> { r.name } {r.last_name }</div>
                 <div className="time"> { r.time }</div>
               </div>
             )) }
