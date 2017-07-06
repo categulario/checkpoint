@@ -1,0 +1,40 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600,800');
+
+// Bootstrap
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+@import "variables";
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+.form-control {
+  @include box-shadow(inset 0 0 0 transparent);
+}
+
+.has-success {
+  @include form-control-validation($state-success-text, $state-success-border, $state-success-bg);
+  @include box-shadow(inset 0 0 0 transparent);
+
+  .form-control {
+    background-color: $state-success-bg;
+  }
+}
+.has-warning {
+  @include form-control-validation($state-warning-text, $state-warning-border, $state-warning-bg);
+  @include box-shadow(inset 0 0 0 transparent);
+
+  .form-control {
+    background-color: $state-warning-bg;
+  }
+}
+.has-error {
+  @include form-control-validation($state-danger-text, $state-danger-border, $state-danger-bg);
+  @include box-shadow(inset 0 0 0 transparent);
+
+  .form-control {
+    background-color: $state-danger-bg;
+  }
+}
+
+.well {
+  @include box-shadow(inset 0 0 0 transparent);
+}
