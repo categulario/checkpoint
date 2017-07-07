@@ -3,7 +3,7 @@ require("./index.scss");
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-class HelloWorld extends Component {
+class Checkpoint extends Component {
   constructor(props) {
     super(props);
 
@@ -20,7 +20,6 @@ class HelloWorld extends Component {
     var req = new XMLHttpRequest;  
 
     req.open('GET', '/runners.json');
-
     req.onload  = this.onLoad.bind(this);
     req.send(null);
   }
@@ -97,4 +96,4 @@ class HelloWorld extends Component {
   }
 }
 
-ReactDOM.render(<HelloWorld />, document.getElementById("app"));
+ReactDOM.render(<Checkpoint />, document.getElementById("app"));
