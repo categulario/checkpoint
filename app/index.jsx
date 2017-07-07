@@ -31,6 +31,7 @@ class HelloWorld extends Component {
       records: JSON.parse(event.target.responseText).map((r) => ({
         number: r.number,
         name: r.name.toLowerCase(),
+        category: 'c'+r.category,
         time: null,
       })),
     });
@@ -51,6 +52,7 @@ class HelloWorld extends Component {
       records: this.state.records.map((r) => ({
         number: r.number,
         name: r.name,
+        category: r.category,
         time: r.number == this.state.runner ? this.currentTime() : r.time,
       })),
     });
@@ -76,7 +78,7 @@ class HelloWorld extends Component {
 
           <div id="recorded-times">
             { this.state.records.map((r) => (
-              <div className="record">
+              <div className={`record ${r.category}`}>
                 <div className="runner">{ r.number }</div>
                 <div className="name"> { r.name }</div>
                 <div className="time"> { r.time }</div>
@@ -86,9 +88,9 @@ class HelloWorld extends Component {
         </div>
 
         <div id="tools">
-          <div className="tool">
-            <button id="download">D</button>
-          </div>
+          <button id="download" className="tool">
+            <i className="fa fa-download"></i>
+          </button>
         </div>
       </div>
     );

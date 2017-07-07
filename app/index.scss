@@ -1,13 +1,40 @@
+$fa-font-path: "../node_modules/font-awesome/fonts" !default;
+
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+// black
+$light-black: #404040;
+
+// blue
+$midnight-blue: #2c3e50;
+$wet-asphalt: #34495e;
+
+// white
+$clouds: #ecf0f1;
+$silver: #bdc3c7;
+
+// green
+$emerald: #2ecc71;
+$nephritis: #27ae60;
+
+// red
+$alizarin: #e74c3c;
+
+// gray
+$asbestos: #7f8c8d;
+$concrete: #95a5a6;
+
 body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-color: #cfcfcf;
+    background-color: $clouds;
+    color: $light-black;
 }
 
 #app {
     margin: 0 auto;
-    background-color: #73B56F;
+    background-color: $emerald;
     width: 80vw;
     height: 100vh;
 }
@@ -26,14 +53,13 @@ body {
             width: 100%;
             height: 100%;
             box-sizing: border-box;
-            background-color: #31BBD0;
-            color: #3f3f3f;
+            background-color: $nephritis;
         }
     }
 }
 
 #recorded-times {
-    background-color: #5531D0;
+    background-color: $emerald;
     display: flex;
     height: calc(100vh - 80px);
 
@@ -45,8 +71,6 @@ body {
     overflow-y: scroll;
 
     .record {
-        background-color: gray;
-
         flex-grow: 0;
         flex-shrink: 1;
         flex-basis: 230px;
@@ -68,8 +92,17 @@ body {
         }
 
         .time {
-            background-color: white;
+            background-color: $wet-asphalt;
+            color: $silver;
             text-align: center;
+        }
+
+        &.c21k {
+            background-color: $asbestos;
+        }
+
+        &.c10k {
+            background-color: $concrete;
         }
     }
 }
@@ -78,19 +111,15 @@ body {
     position: absolute;
     right: 50px;
     bottom: 50px;
-    background-color: green;
 
     .tool {
         width: 80px;
         height: 80px;
         margin: 5px;
+        font-size: 40px;
+        border: 0;
+        border-radius: 40px;
+        cursor: pointer;
     }
 }
 
-#download {
-    width: 100%;
-    height: 100%;
-    box-sizing: border-box;
-    border: 0;
-    font-size: 40px;
-}
