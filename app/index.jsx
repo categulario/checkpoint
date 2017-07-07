@@ -10,18 +10,29 @@ const checkpointState = (state, action) => {
 
   switch (action.type) {
     case 'BOOT':
-      return state;
+      let prevState = localStorage.getItem('state');
+
+      if (prevState) {
+        state = JSON.parse(prevState);
+      }
+    break;
     case 'UPDATERECORDS':
-      return {
+      state = {
         runner: '',
         records: action.records,
       };
+    break;
     case 'UPDATERUNNER':
-      return {
+      state = {
         runner: action.runner,
         records: state.records,
       };
+    break;
   }
+
+  localStorage.setItem('state', JSON.stringify(state));
+
+  return state;
 };
 
 class Checkpoint extends Component {
@@ -119,6 +130,9 @@ class Checkpoint extends Component {
         </div>
 
         <div id="tools">
+          <button id="clear" className="tool">
+            <i className="fa fa-trash"></i>
+          </button>
           <button id="download" className="tool">
             <i className="fa fa-download"></i>
           </button>

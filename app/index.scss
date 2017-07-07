@@ -5,9 +5,12 @@ $fa-font-path: "../node_modules/font-awesome/fonts" !default;
 // black
 $light-black: #404040;
 
-// blue
+// dark blue
 $midnight-blue: #2c3e50;
 $wet-asphalt: #34495e;
+
+// light blue
+$peter-river: #3498db;
 
 // white
 $clouds: #ecf0f1;
@@ -120,6 +123,8 @@ body {
         border: 0;
         border-radius: 40px;
         cursor: pointer;
+        background-color: $peter-river;
+        color: $clouds;
     }
 }
 
