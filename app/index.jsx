@@ -19,7 +19,7 @@ class HelloWorld extends Component {
   componentDidMount() {
     var req = new XMLHttpRequest;  
 
-    req.open('GET', '/21k.json');
+    req.open('GET', '/runners.json');
 
     req.onload  = this.onLoad.bind(this);
     req.send(null);
@@ -31,7 +31,6 @@ class HelloWorld extends Component {
       records: JSON.parse(event.target.responseText).map((r) => ({
         number: r.number,
         name: r.name.toLowerCase(),
-        last_name: r.last_name.toLowerCase(),
         time: null,
       })),
     });
@@ -52,7 +51,6 @@ class HelloWorld extends Component {
       records: this.state.records.map((r) => ({
         number: r.number,
         name: r.name,
-        last_name: r.last_name,
         time: r.number == this.state.runner ? this.currentTime() : r.time,
       })),
     });
@@ -80,7 +78,7 @@ class HelloWorld extends Component {
             { this.state.records.map((r) => (
               <div className="record">
                 <div className="runner">{ r.number }</div>
-                <div className="name"> { r.name } {r.last_name }</div>
+                <div className="name"> { r.name }</div>
                 <div className="time"> { r.time }</div>
               </div>
             )) }
