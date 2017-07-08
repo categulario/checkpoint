@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "deploy": "webpack -p --progress",
+    "build": "webpack -p --progress",
     "start": "webpack-dev-server --progress --colors --inline --content-base build"
   },
   "devDependencies": {
