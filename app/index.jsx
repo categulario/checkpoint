@@ -5,7 +5,10 @@ import ReactDOM from 'react-dom';
 
 const checkpointState = (state, action) => {
   if (!state) {
-    state = {runner: '', records: []};
+    state = {runner: '', records: [], bloburl:null};
+  }
+  if (state.bloburl) {
+    URL.revokeObjectURL(state.bloburl);
   }
 
   switch (action.type) {
@@ -20,12 +23,21 @@ const checkpointState = (state, action) => {
       state = {
         runner: '',
         records: action.records,
+        bloburl: null,
       };
     break;
     case 'UPDATERUNNER':
       state = {
         runner: action.runner,
         records: state.records,
+        bloburl: null,
+      };
+    break;
+    case 'NEWBLOB':
+      state = {
+        runner: state.runner,
+        records: state.records,
+        bloburl: action.bloburl,
       };
     break;
   }
@@ -40,9 +52,10 @@ class Checkpoint extends Component {
     super(props);
 
     this.state = checkpointState(undefined, {type: 'BOOT'});
-    this.handleChange = this.handleChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
-    this.handleTrash  = this.handleTrash.bind(this);
+    this.handleChange     = this.handleChange.bind(this);
+    this.handleSubmit     = this.handleSubmit.bind(this);
+    this.handleTrash      = this.handleTrash.bind(this);
+    this.handleRequestCsv = this.handleRequestCsv.bind(this);
   }
 
   componentDidMount() {
@@ -127,6 +140,27 @@ class Checkpoint extends Component {
     }
   }
 
+  handleRequestCsv(event) {
+    let blob = new Blob([
+      'DORSAL,TIEMPO\n'
+    ].concat(this.state.records.map((rec) => {
+      let time = rec.time || '';
+      return `${rec.number},${time}\n`;
+    })), {
+      type: 'text/csv',
+    });
+    let url = URL.createObjectURL(blob);
+
+    this.setState(
+      checkpointState(
+        this.state, {
+          type: 'NEWBLOB',
+          bloburl: url,
+        }
+      )
+    );
+  }
+
   render() {
     return (
       <div>
@@ -152,7 +186,7 @@ class Checkpoint extends Component {
           <button id="clear" className="tool" onClick={this.handleTrash}>
             <i className="fa fa-trash"></i>
           </button>
-          <button id="download" className="tool">
+          <button id="download" className="tool" onClick={this.handleRequestCsv}>
             <i className="fa fa-download"></i>
           </button>
         </div>
