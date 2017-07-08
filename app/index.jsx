@@ -186,8 +186,12 @@ class Checkpoint extends Component {
           <button id="clear" className="tool" onClick={this.handleTrash}>
             <i className="fa fa-trash"></i>
           </button>
-          <button id="download" className="tool" onClick={this.handleRequestCsv}>
+          {this.state.bloburl &&
+          <a id="download" className="tool" href={this.state.bloburl}>
             <i className="fa fa-download"></i>
+          </a>}
+          <button id="generate" className="tool" onClick={this.handleRequestCsv}>
+            <i className="fa fa-file-excel-o"></i>
           </button>
         </div>
       </div>
