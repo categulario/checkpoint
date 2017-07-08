@@ -42,6 +42,7 @@ class Checkpoint extends Component {
     this.state = checkpointState(undefined, {type: 'BOOT'});
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
+    this.handleTrash  = this.handleTrash.bind(this);
   }
 
   componentDidMount() {
@@ -108,6 +109,24 @@ class Checkpoint extends Component {
     );
   }
 
+  handleTrash(event) {
+    if (confirm('Esto va a limpiar todos los registros ¿procedemos?')) {
+      this.setState(
+        checkpointState(
+          this.state, {
+            type: 'UPDATERECORDS',
+            records: this.state.records.map((r) => ({
+              number: r.number,
+              name: r.name,
+              category: r.category,
+              time: null,
+            })),
+          }
+        )
+      );
+    }
+  }
+
   render() {
     return (
       <div>
@@ -120,7 +139,7 @@ class Checkpoint extends Component {
 
           <div id="recorded-times">
             { this.state.records.map((r) => (
-              <div className={`record ${r.category}`}>
+              <div key={r.number} className={`record ${r.category}`}>
                 <div className="runner">{ r.number }</div>
                 <div className="name"> { r.name }</div>
                 <div className="time"> { r.time }</div>
@@ -130,7 +149,7 @@ class Checkpoint extends Component {
         </div>
 
         <div id="tools">
-          <button id="clear" className="tool">
+          <button id="clear" className="tool" onClick={this.handleTrash}>
             <i className="fa fa-trash"></i>
           </button>
           <button id="download" className="tool">
